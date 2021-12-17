@@ -27,6 +27,6 @@
  
 <div> 
  
-  ![Snake animation](https://github.com/yurijivago)
+  ![Snake animation](https://github.com/yurijivago/yurijivago/blob/output/github-contribution-grid-snake.svg)
  
 </div>
