@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Yuri Jivago
 
-- 🔭 Apaixonado por Java e tencologias relacionadas
+- 🔭 Apaixonado por desenvolvimento e tencologias relacionadas
 - 📫 Pode me contatar em yurijivagoads@gmail.com
 
 <div align="center">
